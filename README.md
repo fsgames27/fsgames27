@@ -1,4 +1,8 @@
-### Hi there 👋
+<!-- RAINBOW LINE BOT -->
+<img width=100% title="Hornet-Developer" alt="Hornet-Developer" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Fabrício_Siqueira_N&fontSize=55&fontColor=FFB7B7&animation=twinkling&fontAlignY=40"/>
+<hr>
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+<hr>
 
 <!--
 **fsgames27/fsgames27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
