@@ -16,6 +16,11 @@
 <br>
 <br>
 
+  <summary>
+  <h3> 📚 Learnings and Hobbies </h3>
+  </summary>
+  > I love 🥤 Soda, 🎮 Games and 🎭 Arts. Specially, photos and music.
+
 <!--
 **fsgames27/fsgames27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
