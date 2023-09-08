@@ -1,7 +1,8 @@
+
 <!-- RAINBOW LINE BOT -->
 <hr>
 <img width=100% title="Hornet-Developer" alt="Hornet-Developer" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Fabrício_Siqueira_N&fontSize=75&fontColor=FFB7B7&animation=twinkling&fontAlignY=40"/>
-<hr>
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 <hr>
 
@@ -22,4 +23,9 @@
   > 🌱 I’m currently learning Html, CSS e Javascript<br>
   > 🔭 I wish to learn python in the future<br>
   </h4>
+
+  <img width=100% title="Hornet-Developer" alt="Hornet-Developer"  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=footer&fontSize=42&fontColor=fff&animation=twinkling&text=ByeBye&fontAlignY=70"/>
+
+<!-- RAINBOW LINE BOT -->
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
