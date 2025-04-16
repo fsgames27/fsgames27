@@ -15,14 +15,14 @@
   <a href="https://www.linkedin.com/in/fabr%C3%ADcio-siqueira-b7868a21a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 <br>
-
   <h3> 📚 Learnings and Hobbies </h3>
   <h4>
   > 🎮 Games <br>
   > 📷 photos and music. <br>
   > 🌱 I'm currently learning Java, django and react
-   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"><br>
+   <img align="center" alt="jAVA" height="45" width="45" src="https://img.icons8.com/?size=100&id=46630&format=png&color=000000">
+   <img align="center" alt="Rafa-Js" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-CSS" height="45" width="40" src="https://img.icons8.com/?size=100&id=qV-JzWYl9dzP&format=png&color=000000"><br>
   > 🔭 I want to become a fullstack<br>
   </h4>
 
