@@ -20,10 +20,10 @@
   <h4>
   > 🎮 Games <br>
   > 📷 photos and music. <br>
-  > 🌱 I’m currently learning Html, CSS e Javascript  
+  > 🌱 I'm currently learning Java, django and react
    <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"><br>
-  > 🔭 I wish to learn python in the future<br>
+  > 🔭 I want to become a fullstack<br>
   </h4>
 
   <hr>
